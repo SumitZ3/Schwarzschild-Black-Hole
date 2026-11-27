@@ -38,20 +38,20 @@ The shader uses geometrized units, setting (G=c=1), and normalizes the
 black-hole mass to (M=1).
 
   ------------------------------------------------------------------------------
-  Quantity                                  Definition          Value when (M=1)
+  Quantity                      :            Definition     :     Value when (M=1)
   ------------------- -------------------------------- -------------------------
-  Event-horizon                               (r_s=2M)                         2
+  Event-horizon                   :            (r_s=2M)       :                  2
   radius                                               
 
-  Photon-sphere                           (r\_{ph}=3M)                         3
+  Photon-sphere                    :       (r\_{ph}=3M):                         3
   radius                                               
 
-  ISCO radius                           (r\_{ISCO}=6M)                         6
+  ISCO radius                       :    (r\_{ISCO}=6M)  :                       6
 
-  Critical impact       (b\_{crit}=3`\sqrt{3}`{=tex}M)       approximately 5.196
+  Critical impact    :   (b\_{crit}=3`\sqrt{3}`{=tex}M)     :  approximately 5.196
   parameter                                            
 
-  Camera orbital                        (r\_{cam}=80M)                        80
+  Camera orbital          :              (r\_{cam}=80M)       :                 80
   radius                                               
   ------------------------------------------------------------------------------
 ## Requirements
