@@ -50,7 +50,7 @@ black-hole mass to (M=1).
 
   Critical impact    :   (b\_{crit}=3`\sqrt{3}`{=tex}M)     :  approximately 5.196
   parameter                                            
-
+  -------------------------------------------------------------------------------
 ## Requirements
 
 -   C++ compiler with C++11 support or newer.
